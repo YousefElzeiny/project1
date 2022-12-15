@@ -1,0 +1,8 @@
+C:\Users\yousef elzeiny\Documents\Visual Studio 2022\project1 (prime numbers)\project1 (prime numbers)\bin\Debug\project1 (prime numbers).exe.config
+C:\Users\yousef elzeiny\Documents\Visual Studio 2022\project1 (prime numbers)\project1 (prime numbers)\bin\Debug\project1 (prime numbers).exe
+C:\Users\yousef elzeiny\Documents\Visual Studio 2022\project1 (prime numbers)\project1 (prime numbers)\bin\Debug\project1 (prime numbers).pdb
+C:\Users\yousef elzeiny\Documents\Visual Studio 2022\project1 (prime numbers)\project1 (prime numbers)\obj\Debug\project1 (prime numbers).csproj.AssemblyReference.cache
+C:\Users\yousef elzeiny\Documents\Visual Studio 2022\project1 (prime numbers)\project1 (prime numbers)\obj\Debug\project1 (prime numbers).csproj.SuggestedBindingRedirects.cache
+C:\Users\yousef elzeiny\Documents\Visual Studio 2022\project1 (prime numbers)\project1 (prime numbers)\obj\Debug\project1 (prime numbers).csproj.CoreCompileInputs.cache
+C:\Users\yousef elzeiny\Documents\Visual Studio 2022\project1 (prime numbers)\project1 (prime numbers)\obj\Debug\project1 (prime numbers).exe
+C:\Users\yousef elzeiny\Documents\Visual Studio 2022\project1 (prime numbers)\project1 (prime numbers)\obj\Debug\project1 (prime numbers).pdb
