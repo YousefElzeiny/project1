@@ -23,9 +23,9 @@ namespace project1__prime_numbers_
                 for (int f = 1; f <= i; f++)
                 {
                     if (i % f == 0)
-                    counter++;
+                    counter+= i;
                 }
-                if (counter == 2)
+                if (counter == 2*i)
                 Console.WriteLine(i);
 
             }
